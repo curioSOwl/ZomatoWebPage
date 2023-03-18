@@ -19,11 +19,11 @@ body {
     background-color: transparent;
     color: #fff;
     border: none;
-    padding: 10px;
+    padding: 15px;
     width:90%;
-    border-radius: 6px;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 20px;
+    transition: all 0.2s;
 
 }
 
@@ -234,14 +234,9 @@ footer {
     }
 
     .but:hover {
-        background-image: linear-gradient(
-        to right,
-        #e7dad8 0%,
-        #d3c2c8 51%,
-        #e3d8d5 100%
-    );
-    width:20%;
-    color:red;
+        background-color:white;
+        width:40%;
+        color:red;
 
     }
     .s1 {
